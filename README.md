@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **UX, Front-end Development and Creative Design.**
 
-- 📫 How to reach me **kavithranshakthi@gmail.com +94767602669**
+- 📫 How to reach me **kavithranofficial@gmail.com +94767602669**
 
 - ⚡ Fun fact **I think I am good at being creative in every work I do.**
 

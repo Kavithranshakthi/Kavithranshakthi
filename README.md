@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavithranshakthi&label=Profile%20views&color=0e75b6&style=flat" alt="kavithranshakthi" /> </p>
 
-- 🌱 I’m currently learning **Google UX Design Course & Meta Course**
+- 🌱 I’m currently learning **Full Stack Mastery Program**
 
-- 💬 Ask me about **UX, Front-end Development and Creative Design.**
+- 💬 Ask me about **Front-end Development and Creative Design.**
 
 - 📫 How to reach me **kavithranofficial@gmail.com +94767602669**
 

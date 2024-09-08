@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavithranshakthi&label=Profile%20views&color=0e75b6&style=flat" alt="kavithranshakthi" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Mastery Program**
+- 🎓 I’m currently following **Masters in computer application at Cochin University **
 
 - 💬 Ask me about **Front-end Development and Creative Design.**
 

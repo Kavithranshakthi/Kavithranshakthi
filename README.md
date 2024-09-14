@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavithranshakthi&theme=dark&show_icons=true&" alt="kavithranshakthi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavithranshakthi&show_icons=true&locale=en" alt="kavithranshakthi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavithranshakthi&theme=dark&show_icons=true&locale=en" alt="kavithranshakthi" /></p>

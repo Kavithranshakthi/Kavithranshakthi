@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavithranshakthi&theme=dark&show_icons=true&locale=en" alt="kavithranshakthi" /></p>
 
-
-<br />[![Kavithran's github activity graph ](https://github-readme-activity-graph.vercel.app/graph?username=Kavithranshakthi&bg_color=000000&color=0ceda2&line=ff0000&point=e6e6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br><br>
+[![Kavithran's github activity graph ](https://github-readme-activity-graph.vercel.app/graph?username=Kavithranshakthi&bg_color=000000&color=0ceda2&line=ff0000&point=e6e6e6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
